@@ -3,7 +3,9 @@
 > Built with brev.dev badge
 
 A simple badge showing your backend was built using Brev 🥞🚀
-[!badge](badge.png)
+
+
+![badge](badge.png)
 
 [![NPM](https://img.shields.io/npm/v/built-with-brev.svg)](https://www.npmjs.com/package/built-with-brev) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
